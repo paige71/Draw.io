@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T21:43:33.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zu40cH13QiH2-x0Bu36S" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T21:49:16.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LNKcKIPRA9nvVArJeWrJ" version="14.7.9" type="github">
   <diagram id="7RCecWEcFYl0perymGjm" name="Page-1">
     <mxGraphModel dx="1437" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,12 +48,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j9GdoZyd2gGU6jYM33GQ-15" value="Walk in the store and locate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="340.003089412146" y="170.00225931864475" as="geometry">
+          <mxGeometry x="270.003089412146" y="210.00225931864475" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j9GdoZyd2gGU6jYM33GQ-16" value="System camera activated and capture" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="320.003089412146" y="110.00225931864475" as="geometry">
+          <mxGeometry x="220.00308941214598" y="140.00225931864475" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
