@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T02:09:31.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="82JDBQYnI6J04x8HX3vm" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T02:25:03.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xFvMhyMVViNDw-WBsYMW" version="14.8.0" type="github">
   <diagram id="7RCecWEcFYl0perymGjm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,8 +28,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9gJZd7Ch3QKlyJpprVV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j9GdoZyd2gGU6jYM33GQ-3" target="r9gJZd7Ch3QKlyJpprVV-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r9gJZd7Ch3QKlyJpprVV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.27;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j9GdoZyd2gGU6jYM33GQ-3" target="r9gJZd7Ch3QKlyJpprVV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="63" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j9GdoZyd2gGU6jYM33GQ-3" value="1.2&lt;br&gt;----------------------------&lt;br&gt;Access to Kiosk Machine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="430" width="130" height="120" as="geometry" />
@@ -93,11 +95,25 @@
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9gJZd7Ch3QKlyJpprVV-1" value="Store Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="35" y="590" width="110" height="110" as="geometry" />
+        <mxCell id="r9gJZd7Ch3QKlyJpprVV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.385;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r9gJZd7Ch3QKlyJpprVV-5" target="j9GdoZyd2gGU6jYM33GQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="740" />
+              <mxPoint x="200" y="645" />
+              <mxPoint x="290" y="645" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="r9gJZd7Ch3QKlyJpprVV-3" value="GIORP software feedback" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="270.003089412146" y="430.00225931864475" as="geometry">
+        <mxCell id="r9gJZd7Ch3QKlyJpprVV-5" value="&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;    StoreInformation Database&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r9gJZd7Ch3QKlyJpprVV-8" value="is everything is ok?" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="200.00308941214598" y="520.0022593186447" as="geometry">
+            <mxPoint x="-126" y="89" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9gJZd7Ch3QKlyJpprVV-9" value="software and data access" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="330.003089412146" y="600.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
