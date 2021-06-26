@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T16:33:57.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VYb5INBEX6TqZh8KAqM6" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T16:34:15.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sc2LLLE4YmkQ6dUjZ9rr" version="14.8.1" type="github">
   <diagram id="7RCecWEcFYl0perymGjm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-13" value="This diagram demonstrates the basic walkthrough of how a potential new customer can set up their profile and preferences when the Kiosk machine has a detection. First, the customized screen on the Kiosk will refresh after the customer seated. Then, the customer is presented with information regarding the system and scent setup options. The customer will have the option to create a profile or skip the process to directly start a session on the screen. If the customer chooses to create a GIORP profile, it will be stored in the customer profile database.&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-13" value="&lt;div&gt;This diagram demonstrates the basic walkthrough of how a potential new customer can set up their profile and preferences when the Kiosk machine has a detection. First, the customized screen on the Kiosk will refresh after the customer is seated. Then, the customer is presented with information regarding the system and scent setup options. The customer will have the opportunity to create a profile or skip the process to start a session on the screen directly. If the customer chooses to make a GIORP profile, it will be stored in the customer profile database.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="750" height="80" as="geometry" />
         </mxCell>
       </root>
