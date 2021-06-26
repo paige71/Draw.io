@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T19:42:48.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WyRtvGfsiZA1MT5MYV6k" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T19:43:34.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wVPMPP1uLpuOqvXXtwqo" version="14.8.1" type="github">
   <diagram id="Hr0UyT7Q3GhJneIhP8DO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,8 +142,8 @@
         <mxCell id="avAiXzYHwa2l0Bb-4tb2-18" value="&lt;span style=&quot;font-weight: 700&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="avAiXzYHwa2l0Bb-4tb2-17">
           <mxGeometry x="70" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="avAiXzYHwa2l0Bb-4tb2-19" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Track browsing history&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="avAiXzYHwa2l0Bb-4tb2-17">
-          <mxGeometry x="5" y="50" width="150" height="20" as="geometry" />
+        <mxCell id="avAiXzYHwa2l0Bb-4tb2-19" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Track browsing data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="avAiXzYHwa2l0Bb-4tb2-17">
+          <mxGeometry x="15" y="50" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="avAiXzYHwa2l0Bb-4tb2-21" value="tracking" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="289.9971915869146" y="679.9993700957025" as="geometry">
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="avAiXzYHwa2l0Bb-4tb2-25" value="send item search&lt;br&gt;frequency data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="219.9971915869146" y="759.9993700957025" as="geometry">
+          <mxGeometry x="229.9971915869146" y="759.9993700957025" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
