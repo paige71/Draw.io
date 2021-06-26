@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T18:14:51.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JdoCbXX8VcVYtkGVum01" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T18:17:42.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="5Vizxj-Vo9IkiC3eYWAz" version="14.8.1" type="github">
   <diagram id="kY34EzLWVW8vUO9oyFZC" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry y="50" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nnMEESTK7L2Ig7HSxWDs-68" value="Store Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="680" y="710" width="120" height="120" as="geometry" />
+          <mxGeometry x="690" y="590" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nnMEESTK7L2Ig7HSxWDs-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nnMEESTK7L2Ig7HSxWDs-71" target="nnMEESTK7L2Ig7HSxWDs-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
