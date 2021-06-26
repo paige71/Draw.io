@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T18:43:39.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TfTk2aScqTxh8_w1Sh6i" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T18:54:32.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KY0vhHk1at9-t3kdmkfQ" version="14.8.1" type="github">
   <diagram id="Hr0UyT7Q3GhJneIhP8DO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
         <mxCell id="pHWXtpBBZK54onprGeE2-47" value="Store Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="550" y="660" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pHWXtpBBZK54onprGeE2-49" value="Item search &lt;br&gt;tracking data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
+        <mxCell id="pHWXtpBBZK54onprGeE2-49" value="Item search &lt;br&gt;data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="689.9971915869146" y="619.9993700957025" as="geometry">
             <mxPoint x="104" as="offset" />
           </mxGeometry>
