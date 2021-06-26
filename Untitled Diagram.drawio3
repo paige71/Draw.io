@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T19:03:32.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EBLz8t7EOzoRHtgr3c56" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T19:07:27.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zuUIivvlHRNulPWdkDfb" version="14.8.1" type="github">
   <diagram id="kY34EzLWVW8vUO9oyFZC" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnMEESTK7L2Ig7HSxWDs-91" value="names, images, description,&lt;br&gt;options, warranty" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
+        <mxCell id="nnMEESTK7L2Ig7HSxWDs-91" value="return names, images, &lt;br&gt;description,&lt;br&gt;options, warranty" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="719.9971915869146" y="629.9993700957025" as="geometry">
             <mxPoint x="6" y="1" as="offset" />
           </mxGeometry>
