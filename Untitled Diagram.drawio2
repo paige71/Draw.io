@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T18:08:59.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="u7WSq4nnKWSdOuNKz9An" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T18:12:30.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Zrydc7uBNXVvbpGMjfNd" version="14.8.1" type="github">
   <diagram id="Hr0UyT7Q3GhJneIhP8DO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-20" value="2.1 " style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="230" width="160" height="100" as="geometry">
+          <mxGeometry x="310" y="230" width="160" height="100" as="geometry">
             <mxRectangle x="350" y="100" width="150" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-22" value="2.2" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="390" width="160" height="100" as="geometry">
+          <mxGeometry x="310" y="390" width="160" height="100" as="geometry">
             <mxRectangle x="350" y="100" width="150" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -91,7 +91,7 @@
           <mxGeometry x="10" y="45" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-28" value="browsing &lt;br&gt;history" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="559.9971915869146" y="419.9993700957025" as="geometry">
+          <mxGeometry x="549.9971915869146" y="409.9993700957025" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-32" value="2.3" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="550" width="160" height="100" as="geometry">
+          <mxGeometry x="310" y="550" width="160" height="100" as="geometry">
             <mxRectangle x="350" y="100" width="150" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -113,7 +113,7 @@
           <mxGeometry x="5" y="50" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-39" value="browsing &lt;br&gt;history" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="739.9971915869146" y="249.9993700957025" as="geometry">
+          <mxGeometry x="749.9971915869146" y="249.9993700957025" as="geometry">
             <mxPoint x="-27" y="260" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pHWXtpBBZK54onprGeE2-46" value="name, images, description,&lt;br&gt;options, warranty," style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="249.9971915869146" y="599.9993700957025" as="geometry">
+          <mxGeometry x="199.9971915869146" y="599.9993700957025" as="geometry">
             <mxPoint x="14" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -140,12 +140,17 @@
             <mxPoint x="104" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avAiXzYHwa2l0Bb-4tb2-1" value="This diagram demonstrates the relationship between how a customer browsing through the catalog on the Kiosk. The customer has the option to allow the Kiosk to pull their profile in the system or directly begin browsing the catalog if they wished. The catalog database is feeding all the information in the Kiosk system to allow user to view their items. At the same time, the Kiosk system will keep a record of the browsing history&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="avAiXzYHwa2l0Bb-4tb2-1" value="This diagram demonstrates the relationship between how a customer browsing through the catalog on the Kiosk. The customer has the option to allow the Kiosk to pull their GIORP profile in the system or directly begin browsing the catalog if they wished. The catalog database feeds all the information in the Kiosk system to allow users to view their items. At the same time, the Kiosk system will keep a record of the browsing frequency history per item in the catalog database and send it to the store manager for strategic use.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="730" height="90" as="geometry" />
         </mxCell>
         <mxCell id="avAiXzYHwa2l0Bb-4tb2-5" value="browsing &lt;br&gt;history" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="619.9971915869146" y="309.9993700957025" as="geometry">
             <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avAiXzYHwa2l0Bb-4tb2-8" value="access via GIORP profile" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="119.9971915869146" y="359.9993700957025" as="geometry">
+            <mxPoint x="14" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
