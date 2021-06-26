@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T15:58:20.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pG2zohYSy1QYthiMbklx" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T18:14:51.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JdoCbXX8VcVYtkGVum01" version="14.8.1" type="github">
   <diagram id="kY34EzLWVW8vUO9oyFZC" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
           <mxGeometry x="639.9971915869146" y="559.9993700957025" as="geometry">
             <mxPoint x="104" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_HiXVsVvT9QNQWt7tE0S-1" value="This diagram demonstrates the relationship between how a customer browsing through the search function on the Kiosk. The customer has the option to allow the Kiosk to pull their GIORP profile in the system or directly begin searching for a specific item if they wished. The catalog database feeds all the information in the Kiosk system to allow users to view their items after the search. At the same time, the Kiosk system will keep a record of the search frequency history per item in the catalog database and send it to the store manager for strategic use.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="720" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
