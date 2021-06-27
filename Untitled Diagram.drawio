@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T00:59:59.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MP2bjNzOljG_PwGBKaLF" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T01:14:41.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BCtVgmmtaM7-KOdSe7-K" version="14.8.1" type="github">
   <diagram id="7RCecWEcFYl0perymGjm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,60 +7,55 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j9GdoZyd2gGU6jYM33GQ-2" target="NjR-eXge2UOkVljK5tXu-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="145" y="550" />
-              <mxPoint x="145" y="650" />
+              <mxPoint x="138" y="480" />
+              <mxPoint x="138" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j9GdoZyd2gGU6jYM33GQ-2" target="NjR-eXge2UOkVljK5tXu-30">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j9GdoZyd2gGU6jYM33GQ-2" target="NjR-eXge2UOkVljK5tXu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9GdoZyd2gGU6jYM33GQ-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="440" width="120" height="110" as="geometry" />
+          <mxGeometry x="58" y="370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-1" target="NjR-eXge2UOkVljK5tXu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-1" value="1.1" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="235" y="270" width="130" height="120" as="geometry" />
+          <mxGeometry x="228" y="200" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-2" value="&lt;span&gt;Start the Kiosk&lt;br&gt;Customization&lt;/span&gt;&lt;br&gt;&lt;span&gt;screen&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-1">
           <mxGeometry x="20" y="50" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-3" target="NjR-eXge2UOkVljK5tXu-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="960" />
-              <mxPoint x="510" y="1020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-3" target="j9GdoZyd2gGU6jYM33GQ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NjR-eXge2UOkVljK5tXu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-3" target="NjR-eXge2UOkVljK5tXu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-3" value="1.5" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="445" y="840" width="130" height="120" as="geometry" />
+          <mxGeometry x="458" y="760" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-7" value="GIORP-Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-3">
           <mxGeometry x="15" y="60" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-4" value="1.6" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="235" y="960" width="130" height="120" as="geometry" />
+          <mxGeometry x="228" y="890" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-5" value="&lt;span&gt;Begin Kiosk session&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-4">
           <mxGeometry x="5" y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-13" value="&lt;div&gt;This diagram demonstrates the basic walkthrough of how a potential new customer can set up their profile and preferences when the Kiosk machine has a detection. First, the customized screen on the Kiosk will refresh after the customer is seated. Then, the customer is presented with information regarding the system and scent setup options. The customer will have the opportunity to create a profile or skip the process to start a session on the screen directly. If the customer chooses to make a GIORP profile, it will be stored in the customer profile database. The session will return to its customization screen after inactive for five minutes.&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="750" height="80" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-13" value="&lt;div&gt;This diagram demonstrates the basic walkthrough of how a potential new customer uses the Kiosk system. It begins with when the GIORP software system detects a new customer, and the customized screen will be presented to the customer. Then, the Kiosk will check with the RAFS-500 for online or offline status, and the current scent will be flushed out to the customer. Next, the Kiosk will ask the customer&#39;s permission to use a camera system to enhance GIORP imaging capability. The customer will have the option to choose their preferable scent and sound effect.&amp;nbsp;&lt;span&gt;The session will return to its customization screen after inactive for five minutes. The customer will have an option to create their GIORP profile and store their information in the customer profile database or to go-ahead to begin their session. After the session is inactive for five minutes, it will return to the starting customization screen.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-15" target="NjR-eXge2UOkVljK5tXu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-15" value="GIORP Software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="275" width="120" height="110" as="geometry" />
+          <mxGeometry x="628" y="205" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-19" value="new customer &lt;br&gt;detection" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="615.003089412146" y="240.00225931864475" as="geometry">
+          <mxGeometry x="608.003089412146" y="170.00225931864475" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -68,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-20" value="1.2" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="235" y="440" width="130" height="110" as="geometry" />
+          <mxGeometry x="228" y="370" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-21" value="Kiosk &lt;br&gt;System/Software &lt;br&gt;Check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-20">
           <mxGeometry x="10" y="40" width="110" height="50" as="geometry" />
@@ -77,10 +72,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-22" value="RAFS-500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="440" width="120" height="110" as="geometry" />
+          <mxGeometry x="628" y="370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-24" value="online or offline" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="595.003089412146" y="400.00225931864475" as="geometry">
+          <mxGeometry x="588.003089412146" y="330.00225931864475" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -91,38 +86,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-29" value="1.4" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="231.25" y="765" width="137.5" height="105" as="geometry" />
+          <mxGeometry x="224.25" y="695" width="137.5" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-30" value="Customized scent and &lt;br&gt;sound effect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-29">
-          <mxGeometry y="55" width="130" height="30" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-30" value="Customized &lt;br&gt;scent and &lt;br&gt;sound effect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-29">
+          <mxGeometry x="28.75" y="45" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-32" value="Yes, create &lt;br&gt;a profile" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="535.003089412146" y="750.0022593186447" as="geometry">
+          <mxGeometry x="533.003089412146" y="680.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-35" value="No, skip profile&lt;br&gt;creation" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="425.003089412146" y="820.0022593186447" as="geometry">
+          <mxGeometry x="418.003089412146" y="750.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-39" value="scent and &lt;br&gt;sound effect" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="215.00308941214598" y="640.0022593186447" as="geometry">
+          <mxGeometry x="220.00308941214598" y="570.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="1050" as="sourcePoint" />
-            <mxPoint x="235" y="340" as="targetPoint" />
+            <mxPoint x="128" y="980" as="sourcePoint" />
+            <mxPoint x="228" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="1020" />
-              <mxPoint x="40" y="340" />
+              <mxPoint x="33" y="950" />
+              <mxPoint x="33" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-42" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;inactive after &lt;br&gt;5 minutes&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="170.00308941214598" y="570.0022593186447" as="geometry">
+          <mxGeometry x="163.00308941214598" y="500.00225931864475" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -130,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-43" value="1.3" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="465" y="590" width="130" height="120" as="geometry" />
+          <mxGeometry x="458" y="520" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-44" value="Flush the current &lt;br&gt;scent out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-43">
           <mxGeometry x="10" y="55" width="110" height="30" as="geometry" />
@@ -139,15 +134,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9GdoZyd2gGU6jYM33GQ-19" value="&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;CustomerProfile &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Database&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="625" y="710" width="200" height="70" as="geometry" />
+          <mxGeometry x="618" y="640" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-48" value="preferences, email,&lt;br&gt;phone number, addresses" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="860.003089412146" y="855.0022593186447" as="geometry">
+          <mxGeometry x="840.003089412146" y="690.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-59" value="&lt;span&gt;customer&lt;br&gt;profile&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span&gt;found&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="695.003089412146" y="660.0022593186447" as="geometry">
+          <mxGeometry x="688.003089412146" y="590.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -155,13 +150,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-60" value="1.4" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="590" width="135" height="120" as="geometry" />
+          <mxGeometry x="225.5" y="520" width="135" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-61" value="Confirm &lt;br&gt;camera usage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-60">
           <mxGeometry x="25" y="55" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-68" value="Yes, or No" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="272.503089412146" y="520.0022593186447" as="geometry">
+          <mxGeometry x="265.503089412146" y="450.00225931864475" as="geometry">
+            <mxPoint x="-126" y="89" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjR-eXge2UOkVljK5tXu-77" value="&lt;span&gt;with&lt;br&gt;customer&lt;br&gt;profile&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="580.003089412146" y="860.0022593186447" as="geometry">
             <mxPoint x="-126" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
