@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T02:39:04.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SJ7iq7frkRRxZnhc0A4U" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T04:21:05.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YB3PD1b9SWGXj-IHc6OA" version="14.8.1" type="github">
   <diagram id="kY34EzLWVW8vUO9oyFZC" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
             <mxPoint x="-5" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HiXVsVvT9QNQWt7tE0S-1" value="This diagram demonstrates the relationship between how a customer browsing through the search function on the Kiosk. The customer has the option to allow the Kiosk to pull their GIORP profile in the system or directly begin searching for a specific item if they wished. The catalog database feeds all the information in the Kiosk system to allow users to view their items after the search. At the same time, the Kiosk system will keep a record of the search frequency history per item in the catalog database and send it to the store manager for strategic use.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="_HiXVsVvT9QNQWt7tE0S-1" value="The diagram demonstrates the relationship between how a customer utilizes the search function on the Kiosk. When a customer initiates the search function using the keyboard on the screen, the search result will return a list of items that meet the search criteria. Then, the customer will pick one item to check out detailed information provided by catalog database. In addition, the customer has the option to go back to the item list to choose a different item.&amp;nbsp; Next, all item(s) search frequency tracking information is collected and communicated to the catalog database. Finally, the catalog database compiles tracking data per item in the summary report and sends it to the store manager to support the strategic decision.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_HiXVsVvT9QNQWt7tE0S-4" value="GIORP profile found&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
