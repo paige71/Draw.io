@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T01:54:57.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SikAvRAbDZ044Uj0ntux" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T02:06:21.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9xzeNhDaolIHm1tai0LZ" version="14.8.1" type="github">
   <diagram id="7RCecWEcFYl0perymGjm" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9GdoZyd2gGU6jYM33GQ-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j9GdoZyd2gGU6jYM33GQ-2" value="&lt;b&gt;Customer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-1" target="NjR-eXge2UOkVljK5tXu-20">
@@ -24,8 +24,8 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-1" value="1.1" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-2" value="&lt;span&gt;Start the Kiosk&lt;br&gt;Customization&lt;/span&gt;&lt;br&gt;&lt;span&gt;screen&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-1">
-          <mxGeometry x="20" y="50" width="90" height="50" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-2" value="&lt;b&gt;&lt;span&gt;Start the Kiosk&lt;br&gt;Customization&lt;/span&gt;&lt;br&gt;&lt;span&gt;screen&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-1">
+          <mxGeometry x="15" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-3">
           <mxGeometry relative="1" as="geometry">
@@ -38,14 +38,14 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-3" value="1.6" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="469.25" y="835" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-7" value="GIORP-Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-3">
-          <mxGeometry x="15" y="60" width="90" height="20" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-7" value="GIORP-Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="NjR-eXge2UOkVljK5tXu-3">
+          <mxGeometry x="10" y="60" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-4" value="1.7" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="228" y="955" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-5" value="&lt;span&gt;Begin Kiosk session&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-4">
-          <mxGeometry x="5" y="60" width="120" height="20" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-5" value="&lt;span&gt;Begin Kiosk session&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="NjR-eXge2UOkVljK5tXu-4">
+          <mxGeometry y="60" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-13" value="&lt;div&gt;This diagram demonstrates the basic walkthrough of how a potential new customer uses the Kiosk system. It begins with when the GIORP software system detects a new customer, and the customized screen will be presented to the customer. Then, the Kiosk will check with the RAFS-500 for online or offline status, and the current scent will be flushed out to the customer. Next, the Kiosk will ask the customer&#39;s permission to use a camera system to enhance GIORP imaging capability. The customer will have the option to choose their preferable scent and sound effect.&amp;nbsp;&lt;span&gt;The session will return to its customization screen after inactive for five minutes. The customer will have an option to create their GIORP profile and store their information in the customer profile database or to go-ahead to begin their session. After the session is inactive for five minutes, it will return to the starting customization screen.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="750" height="100" as="geometry" />
@@ -53,7 +53,7 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-15" target="NjR-eXge2UOkVljK5tXu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-15" value="RAFS-500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-15" value="&lt;b&gt;RAFS-500&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-20" target="NjR-eXge2UOkVljK5tXu-44">
@@ -62,13 +62,13 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-20" value="1.2" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="228" y="370" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-21" value="Kiosk &lt;br&gt;System/Software &lt;br&gt;Check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-20">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-21" value="&lt;b&gt;Kiosk &lt;br&gt;System/Software &lt;br&gt;Check&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-20">
           <mxGeometry x="10" y="40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-22" target="NjR-eXge2UOkVljK5tXu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-22" value="GIORP Software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-22" value="&lt;b&gt;GIORP Software&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="350" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjR-eXge2UOkVljK5tXu-29" target="NjR-eXge2UOkVljK5tXu-4">
@@ -80,8 +80,8 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-29" value="1.5" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="224.25" y="740" width="137.5" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-30" value="Customized &lt;br&gt;scent and &lt;br&gt;sound effect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-29">
-          <mxGeometry x="28.75" y="45" width="80" height="50" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-30" value="Customized &lt;br&gt;scent and &lt;br&gt;sound effect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="NjR-eXge2UOkVljK5tXu-29">
+          <mxGeometry x="23.75" y="35" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-32" value="Yes, create &lt;br&gt;a profile" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="534.253089412146" y="755.0022593186447" as="geometry">
@@ -104,7 +104,7 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-43" value="1.3" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="508" y="370" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-44" value="Flush the current &lt;br&gt;scent out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-43">
+        <mxCell id="NjR-eXge2UOkVljK5tXu-44" value="&lt;b&gt;Flush the current &lt;br&gt;scent out&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-43">
           <mxGeometry y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="NjR-eXge2UOkVljK5tXu-3">
@@ -112,7 +112,7 @@
             <mxPoint x="619.25" y="750" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9GdoZyd2gGU6jYM33GQ-19" value="&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;CustomerProfile &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Database&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="j9GdoZyd2gGU6jYM33GQ-19" value="&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;CustomerProfile &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Database&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="618" y="710" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-48" value="preferences, email,&lt;br&gt;phone number, addresses" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
@@ -139,8 +139,8 @@
         <mxCell id="NjR-eXge2UOkVljK5tXu-78" value="1.4" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="224.25" y="550" width="137.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NjR-eXge2UOkVljK5tXu-82" value="Disable or allow &lt;br&gt;camera" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-78">
-          <mxGeometry x="17.5" y="55" width="100" height="30" as="geometry" />
+        <mxCell id="NjR-eXge2UOkVljK5tXu-82" value="&lt;b&gt;Disable or allow &lt;br&gt;camera&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NjR-eXge2UOkVljK5tXu-78">
+          <mxGeometry x="12.5" y="55" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NjR-eXge2UOkVljK5tXu-81" value="&amp;nbsp;Yes or No" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="419.253089412146" y="430.00225931864475" as="geometry">
