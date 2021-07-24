@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T15:49:17.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="hTpIzLjWL29Pv1EeTqQ-" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T15:50:37.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="09vPW-jWW62BPRr2oOnq" version="14.9.2" type="github">
   <diagram id="wJJJtuyVs16l-hUURszd" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="vX4rMuK7LznsMmMNf89x-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="600" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="vX4rMuK7LznsMmMNf89x-3" value="Ordering Item from Warehouse" style="shape=folder;fontStyle=1;tabWidth=210;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+        <mxCell id="vX4rMuK7LznsMmMNf89x-3" value="Item Ordering Sub-system: Ordering Item from Warehouse" style="shape=folder;fontStyle=1;tabWidth=340;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="540" height="960" as="geometry" />
         </mxCell>
       </root>
