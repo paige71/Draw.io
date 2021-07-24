@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T22:50:06.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="2D94e0y1fwonZDOzOJ6Q" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T22:55:40.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="1RejiEMsbcRjv-hEiTT9" version="14.9.2" type="github">
   <diagram id="Y2iDa5P5MGVn5bZVxPoJ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="ZdwtlfnmU14g1NqzHdlp-80" value="30% delivering deposit for order from the warehouse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZdwtlfnmU14g1NqzHdlp-44">
           <mxGeometry x="365" y="750" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZdwtlfnmU14g1NqzHdlp-91" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-10;" vertex="1" parent="ZdwtlfnmU14g1NqzHdlp-44">
-          <mxGeometry x="190" y="60" width="50" height="10" as="geometry" />
+        <mxCell id="ZdwtlfnmU14g1NqzHdlp-91" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="ZdwtlfnmU14g1NqzHdlp-44">
+          <mxGeometry x="210" y="60" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ZdwtlfnmU14g1NqzHdlp-92" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="ZdwtlfnmU14g1NqzHdlp-44" target="ZdwtlfnmU14g1NqzHdlp-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,9 +77,9 @@
         <mxCell id="ZdwtlfnmU14g1NqzHdlp-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="ZdwtlfnmU14g1NqzHdlp-44" source="ZdwtlfnmU14g1NqzHdlp-51" target="ZdwtlfnmU14g1NqzHdlp-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZdwtlfnmU14g1NqzHdlp-88" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ZdwtlfnmU14g1NqzHdlp-44" source="ZdwtlfnmU14g1NqzHdlp-45" target="ZdwtlfnmU14g1NqzHdlp-52">
+        <mxCell id="ZdwtlfnmU14g1NqzHdlp-88" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ZdwtlfnmU14g1NqzHdlp-44" source="ZdwtlfnmU14g1NqzHdlp-45" target="ZdwtlfnmU14g1NqzHdlp-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="180" y="80" as="sourcePoint" />
             <mxPoint x="210" y="250" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
