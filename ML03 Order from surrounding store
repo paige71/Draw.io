@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T21:34:35.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="JNj5Hdhx4teUC9DFVCXp" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T21:47:39.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="DCmGmij6N1kUWUlDHL7D" version="14.9.2" type="github">
   <diagram id="Y2iDa5P5MGVn5bZVxPoJ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="285" y="30" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdwtlfnmU14g1NqzHdlp-61" value="Add item to order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZdwtlfnmU14g1NqzHdlp-44">
-          <mxGeometry x="155" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="300" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdwtlfnmU14g1NqzHdlp-64" value="Process payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZdwtlfnmU14g1NqzHdlp-44">
           <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
