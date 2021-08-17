@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T19:01:36.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="GcrijFqiH0LLaVp1ChWF" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T19:34:27.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="DTIIIhJpVPTi1v9fs6xe" version="14.9.6" type="github">
   <diagram id="zpY2FDmKyeBfkvXeLsTu" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint x="135" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yAj0vETuS6YUp-eogxzW-18" value="Process payment" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=0;glass=0;sketch=0;" vertex="1" parent="yAj0vETuS6YUp-eogxzW-17">
+        <mxCell id="yAj0vETuS6YUp-eogxzW-18" value="Check student" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=0;glass=0;sketch=0;" vertex="1" parent="yAj0vETuS6YUp-eogxzW-17">
           <mxGeometry x="68" y="120" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yAj0vETuS6YUp-eogxzW-72" value="Student found?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="yAj0vETuS6YUp-eogxzW-17">
