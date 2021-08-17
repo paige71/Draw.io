@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T19:34:27.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="DTIIIhJpVPTi1v9fs6xe" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T19:36:08.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="OhOcnUoWz0fzakdUkMbe" version="14.9.6" type="github">
   <diagram id="zpY2FDmKyeBfkvXeLsTu" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,12 @@
           <mxGeometry x="95" y="850" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yAj0vETuS6YUp-eogxzW-113" value="Print receipt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=0;glass=0;sketch=0;" vertex="1" parent="yAj0vETuS6YUp-eogxzW-17">
+          <mxGeometry x="62.5" y="960" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAj0vETuS6YUp-eogxzW-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="yAj0vETuS6YUp-eogxzW-17" source="yAj0vETuS6YUp-eogxzW-119" target="yAj0vETuS6YUp-eogxzW-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAj0vETuS6YUp-eogxzW-119" value="Update course(s) enrollment" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=0;glass=0;sketch=0;" vertex="1" parent="yAj0vETuS6YUp-eogxzW-17">
           <mxGeometry x="62.5" y="890" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yAj0vETuS6YUp-eogxzW-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;" edge="1" parent="1" source="yAj0vETuS6YUp-eogxzW-2">
@@ -153,7 +159,7 @@
         </mxCell>
         <mxCell id="yAj0vETuS6YUp-eogxzW-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="yAj0vETuS6YUp-eogxzW-113">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="945" as="targetPoint" />
+            <mxPoint x="110" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
