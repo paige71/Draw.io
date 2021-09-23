@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T17:20:08.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="L0VDOjL3biLLih2sNriq" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T17:20:51.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="eUb_8K424wuIdMJTOVNv" version="15.2.9" type="github">
   <diagram id="MPiRt6uQqgFIqovuFBG5" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ay-yEYKiYa1uqEsM1yel-45" value="Property Cost" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ay-yEYKiYa1uqEsM1yel-43">
+        <mxCell id="ay-yEYKiYa1uqEsM1yel-45" value="Property Price" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ay-yEYKiYa1uqEsM1yel-43">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
