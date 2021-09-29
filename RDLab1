@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T00:08:57.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="VLuM2BNK1wkgq4xdLuDn" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T00:20:14.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="MsEm7hq7x8gSCKtiqfEK" version="15.3.0" type="github">
   <diagram id="MPiRt6uQqgFIqovuFBG5" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ay-yEYKiYa1uqEsM1yel-1" value="Sellers" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="400" width="150" height="220" as="geometry" />
+          <mxGeometry x="260" y="400" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ay-yEYKiYa1uqEsM1yel-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ay-yEYKiYa1uqEsM1yel-1" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -71,19 +71,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ay-yEYKiYa1uqEsM1yel-16" value="Seller Address" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ay-yEYKiYa1uqEsM1yel-14" vertex="1">
-          <mxGeometry x="30" width="120" height="30" as="geometry">
-            <mxRectangle width="120" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A1rvsV6DMnjdYJQ89SJ9-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ay-yEYKiYa1uqEsM1yel-1">
-          <mxGeometry y="180" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="A1rvsV6DMnjdYJQ89SJ9-36" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="A1rvsV6DMnjdYJQ89SJ9-35">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A1rvsV6DMnjdYJQ89SJ9-37" value="Seller Asking Price" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="A1rvsV6DMnjdYJQ89SJ9-35">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
