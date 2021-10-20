@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T21:06:40.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.4.3" etag="vk1RCJ1kgIBgcWtJtEJi" type="github"><diagram id="m4sY0peLHEjqrshAi731">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T21:13:04.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CwCWB7vtot7q3uyIBeIa" version="15.4.3" type="github">
+  <diagram id="m4sY0peLHEjqrshAi731" name="Page-1">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-1" value="&lt;u&gt;RenderID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-6" value="FirstName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-7" value="MiddleInitial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-8" value="LastName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-9" value="PhoneNo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-10" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Render&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-12" value="&lt;u&gt;AgreetmentID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-13" value="BeginDate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-14" value="RentalAmount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-15" value="EndDate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7D2wFs3YW06V9hp2_Nw6-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;RentalAgreement&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
