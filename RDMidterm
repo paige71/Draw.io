@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T18:34:39.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="8rvTMGtoAXUH99ida9z5" version="15.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T18:41:19.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="jopmhzUfsl7aXaokxPeI" version="15.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -542,6 +542,9 @@
         <mxCell id="7GfkTnmquM9j3wrxBgUA-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-216" target="7GfkTnmquM9j3wrxBgUA-218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7GfkTnmquM9j3wrxBgUA-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-216" target="7GfkTnmquM9j3wrxBgUA-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7GfkTnmquM9j3wrxBgUA-216" value="&lt;u&gt;StudentNo&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="720" width="80" height="20" as="geometry" />
         </mxCell>
@@ -558,6 +561,11 @@
         </mxCell>
         <mxCell id="7GfkTnmquM9j3wrxBgUA-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-219" target="7GfkTnmquM9j3wrxBgUA-221">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GfkTnmquM9j3wrxBgUA-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GfkTnmquM9j3wrxBgUA-219" value="&lt;u&gt;CourseNo&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="720" width="80" height="20" as="geometry" />
@@ -600,6 +608,14 @@
         <mxCell id="7GfkTnmquM9j3wrxBgUA-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;fontColor=default;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-231">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GfkTnmquM9j3wrxBgUA-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;fillColor=default;" edge="1" parent="1" source="7GfkTnmquM9j3wrxBgUA-231" target="7GfkTnmquM9j3wrxBgUA-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="760" />
+              <mxPoint x="1365" y="760" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7GfkTnmquM9j3wrxBgUA-231" value="FacultyName" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
