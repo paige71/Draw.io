@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T02:30:56.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="2FSgRB_8Rd0KOg2t1aOy" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T02:37:46.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="jp2eGjSN20XwR9abOxIt" version="15.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,10 @@
         <mxCell id="2t0pQGn-zjz-jvTv9bq3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2t0pQGn-zjz-jvTv9bq3-10" target="2t0pQGn-zjz-jvTv9bq3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2t0pQGn-zjz-jvTv9bq3-10" value="go to gameLoopExit&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2t0pQGn-zjz-jvTv9bq3-10" target="2t0pQGn-zjz-jvTv9bq3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-10" value="go to gameLoopExit, does the pattern input by user encountered null?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395.75" y="-150" width="174.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2t0pQGn-zjz-jvTv9bq3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2t0pQGn-zjz-jvTv9bq3-11" target="2t0pQGn-zjz-jvTv9bq3-15">
@@ -248,8 +251,32 @@
         <mxCell id="2t0pQGn-zjz-jvTv9bq3-21" value="enter lightUp label, and lights up all 8 led lights twice" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380.87" y="110" width="204" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2t0pQGn-zjz-jvTv9bq3-22" value="enter gameLoss lable" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="657.75" y="20" width="174.25" height="40" as="geometry" />
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2t0pQGn-zjz-jvTv9bq3-22" target="2t0pQGn-zjz-jvTv9bq3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-22" value="enter gameLoss lable, turn off all other led lights and leave the correct led light stay on" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="657.75" y="15" width="192.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-23" value="end game" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="20" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2t0pQGn-zjz-jvTv9bq3-26" target="2t0pQGn-zjz-jvTv9bq3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-26" value="go to reset label and reset pattern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="219.5" y="-145" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-27" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-28" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-33" value="Rejoin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="-310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2t0pQGn-zjz-jvTv9bq3-34" value="Rejoin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="582" y="-320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
