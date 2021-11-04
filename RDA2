@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T19:39:47.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LgejN82pRKINQAFVBRgs" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T19:41:19.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nMuflFaekspROES1Ab9A" version="15.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -667,16 +667,16 @@
           <mxGeometry x="80" y="1180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-26" value="&lt;span style=&quot;text-align: left&quot;&gt;AccountPaymentDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1180" width="130" height="20" as="geometry" />
+          <mxGeometry x="440" y="1180" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-30" value="&lt;span style=&quot;text-align: left&quot;&gt;AccountPaymentAmount&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1180" width="150" height="20" as="geometry" />
+          <mxGeometry x="570" y="1180" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-31" value="&lt;span style=&quot;text-align: left&quot;&gt;AccountBalance&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1180" width="100" height="20" as="geometry" />
+          <mxGeometry x="340" y="1180" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-32" value="&lt;span style=&quot;text-align: left&quot;&gt;AccountType&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1180" width="90" height="20" as="geometry" />
+          <mxGeometry x="250" y="1180" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-33" value="&lt;span style=&quot;font-weight: 700 ; text-align: left&quot;&gt;&lt;u&gt;BranchID&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="1260" width="80" height="20" as="geometry" />
@@ -693,11 +693,11 @@
         <mxCell id="orv3UKYhHCm67foukqdH-48" value="&lt;span style=&quot;text-align: left&quot;&gt;ItemPattern&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="1420" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="orv3UKYhHCm67foukqdH-49" value="&lt;span style=&quot;text-align: left&quot;&gt;OrderCreditStatus&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1340" width="110" height="20" as="geometry" />
+        <mxCell id="orv3UKYhHCm67foukqdH-49" value="&lt;span style=&quot;text-align: left&quot;&gt;OrderCreditStatus&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1340" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-50" value="&lt;span style=&quot;text-align: left&quot;&gt;OrderDate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1340" width="80" height="20" as="geometry" />
+          <mxGeometry x="240" y="1340" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-51" value="&lt;span style=&quot;font-weight: 700 ; text-align: left&quot;&gt;&lt;u&gt;OrderID&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="1340" width="80" height="20" as="geometry" />
@@ -749,6 +749,12 @@
         </mxCell>
         <mxCell id="orv3UKYhHCm67foukqdH-67" value="&lt;span style=&quot;font-weight: 700 ; text-align: left&quot;&gt;&lt;u&gt;EmployeeID&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="1500" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="orv3UKYhHCm67foukqdH-70" value="&lt;b&gt;&lt;u&gt;CustomerID&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="orv3UKYhHCm67foukqdH-71" value="&lt;span style=&quot;font-weight: 700 ; text-align: left&quot;&gt;&lt;u&gt;BranchID&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1340" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
