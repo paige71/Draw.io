@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T04:56:10.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="eDYPqUhcl25jrhwY3wU8" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T05:10:30.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="s0YMkqH_SkW-Q-Y4uiG5" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="3140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="DFWxgulAD1yOmSDKZ40D-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-685" y="-1680" as="targetPoint" />
           </mxGeometry>
@@ -12,18 +12,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="convert second to milliseconds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-745" y="-1760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="-685" y="-1420" as="targetPoint" />
-            <mxPoint x="-685" y="-1480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="_rhw8wba1LoRsDTBrYpJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="enter lightUp label, and lights up all 8 led lights twice then turn off" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-765" y="-1410" width="160" height="50" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="enter winGame label, and lights up all 8 led lights twice then turn off" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-763.75" y="-1080" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-2" target="_rhw8wba1LoRsDTBrYpJ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,7 +27,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-2" value="End Game" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-745" y="-1320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-743.75" y="-1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_rhw8wba1LoRsDTBrYpJ-3" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,8 +35,11 @@
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-3" value="Push and preserve registers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-745" y="-1830" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_rhw8wba1LoRsDTBrYpJ-7" target="DFWxgulAD1yOmSDKZ40D-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_rhw8wba1LoRsDTBrYpJ-7" value="pop saved registers, end program" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-745" y="-1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-743.75" y="-930" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="04ZO0x391X0YJu_Jch1F-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=1;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-0" target="04ZO0x391X0YJu_Jch1F-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -128,6 +124,62 @@
         </mxCell>
         <mxCell id="DFWxgulAD1yOmSDKZ40D-2" value="&lt;span&gt;Start program&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-735" y="-1900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-3" target="DFWxgulAD1yOmSDKZ40D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-3" value="read/load/store accelerometer values for tick timer and tick blink timer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-788.75" y="-1690" width="207.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-5" target="DFWxgulAD1yOmSDKZ40D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-5" target="DFWxgulAD1yOmSDKZ40D-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-5" value="&lt;span&gt;Is tick timer less&lt;/span&gt;&lt;br&gt;&lt;span&gt;or equal to 0?&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-750" y="-1620" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-8" value="load and read tick blink timer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-550" y="-1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-10" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-625" y="-1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-11" target="DFWxgulAD1yOmSDKZ40D-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-11" value="read x axis from accelerometer value that was converted to 32 bit value" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-788.75" y="-1470" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-695" y="-1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-14" target="DFWxgulAD1yOmSDKZ40D-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-686" y="-1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-14" value="read y axis from accelerometer value that was converted to 32 bit value" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-788.75" y="-1390" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-17" target="DFWxgulAD1yOmSDKZ40D-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-17" value="check if current LED light matched with x and y, if not, move to next LED light and repeat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-786.25" y="-1320" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-19" target="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-19" value="Current LED light matched target LED light?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-753.75" y="-1250" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-22" value="&lt;span&gt;End program&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-733.75" y="-860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFWxgulAD1yOmSDKZ40D-24" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-695" y="-1120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
