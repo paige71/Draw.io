@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T05:24:36.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DP6xm4JdOVLThb_mm_DX" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T05:26:56.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HjdwwNnQgtFRuPsTtkI4" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="3140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFWxgulAD1yOmSDKZ40D-14" value="read y axis from accelerometer value that was converted to 32 bit value" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-641.75" y="-1580" width="205" height="40" as="geometry" />
+          <mxGeometry x="-641.75" y="-1590" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DFWxgulAD1yOmSDKZ40D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-17" target="DFWxgulAD1yOmSDKZ40D-19">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFWxgulAD1yOmSDKZ40D-17" value="check if current LED light matched with x and y, if not, move to next LED light and repeat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-639.25" y="-1510" width="205" height="40" as="geometry" />
+          <mxGeometry x="-658.06" y="-1520" width="242.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFWxgulAD1yOmSDKZ40D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFWxgulAD1yOmSDKZ40D-19" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
