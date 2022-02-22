@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T19:45:59.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.5.6" etag="vaww-Eua5INJmpRsnOXI" type="github"><diagram id="jv4skKqzvl7cilbLFSNn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-22T19:51:56.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VbMc2NbhgUAroML3OYUj" version="16.5.6" type="github">
+  <diagram id="jv4skKqzvl7cilbLFSNn" name="Page-1">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hN7d9UIGwx5ock_pemlo-1" value="Getting drinks from the fridge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-2" target="hN7d9UIGwx5ock_pemlo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-2" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-3" target="hN7d9UIGwx5ock_pemlo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-3" value="Fridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="425" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-4" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-7" value="Making dinner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-8" target="hN7d9UIGwx5ock_pemlo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-8" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-10" target="hN7d9UIGwx5ock_pemlo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-10" value="Fridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="425" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-11" value="Kitchen Sink" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;startArrow=classic;startFill=1;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-12" target="hN7d9UIGwx5ock_pemlo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;startArrow=classic;startFill=1;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-12" target="hN7d9UIGwx5ock_pemlo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;startArrow=none;startFill=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-12" target="hN7d9UIGwx5ock_pemlo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="170" />
+              <mxPoint x="1180" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-12" value="Kitchen Cabinet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="770" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-13" value="Stove" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-14" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-20" value="Doing dishes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;startArrow=none;startFill=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-21" target="hN7d9UIGwx5ock_pemlo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-21" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;startArrow=none;startFill=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-22" target="hN7d9UIGwx5ock_pemlo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-22" value="Kitchen Sink" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="425" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;startArrow=none;startFill=0;" edge="1" parent="1" source="hN7d9UIGwx5ock_pemlo-23" target="hN7d9UIGwx5ock_pemlo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-23" value="Kitchen Cabinet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hN7d9UIGwx5ock_pemlo-24" value="Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
